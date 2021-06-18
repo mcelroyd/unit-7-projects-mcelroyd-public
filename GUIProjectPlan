@@ -1,0 +1,5 @@
+I will create a pong game
+I will add more customization options like changing the size of your paddle and the size of the ball, maybe even colors
+I will track the score during the game 
+I would probably have one main class, one gameBoard class, as well as classes for the paddle and ball objects
+I may also add a menu screen through which you can start the game and edit settings
